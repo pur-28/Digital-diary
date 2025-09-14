@@ -34,6 +34,14 @@ This digital diary supports **voice input**, making it easier and faster to writ
 - Web Speech API (voice input)  
 
 ---  
+
+## 📸 Screenshots
+
+All screenshots are available here: [Screenshots Folder](https://github.com/pur-28/Diary-Mini/tree/main/screenshots)
+
+---
+
+
 📜 License
 This project is licensed under the MIT License
 
@@ -46,5 +54,3 @@ This project is licensed under the MIT License
 ## Clone the repo  
 ```bash
 git clone https://github.com/your-username/digital-diary.git
-
-
