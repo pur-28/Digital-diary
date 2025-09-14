@@ -34,18 +34,17 @@ This digital diary supports **voice input**, making it easier and faster to writ
 - Web Speech API (voice input)  
 
 ---  
+📜 License
+This project is licensed under the MIT License
+
+
+👩‍💻 Author: @Purva Gawad
+
+🌐 GitHub: @pur-28
+
 
 ## Clone the repo  
 ```bash
 git clone https://github.com/your-username/digital-diary.git
 
 
-## 📜 License
-! This project is licensed under the MIT License
-
-
-## 👩‍💻 Author
-
-@Purva Gawad
-
-🌐 GitHub: @pur-28
