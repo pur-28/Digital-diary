@@ -37,7 +37,7 @@ This digital diary supports **voice input**, making it easier and faster to writ
 
 ## 📸 Screenshots
 
-All screenshots are available here: [Screenshots Folder](https://github.com/pur-28/Diary-Mini/tree/main/screenshots)
+All screenshots are available here: [Screenshots Folder](https://github.com/pur-28/Digital-diary/tree/main/Screenshots)
 
 ---
 
